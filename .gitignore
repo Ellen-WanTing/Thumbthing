@@ -1,0 +1,3 @@
+thumbthing/client/Dockerfile
+thumbthing/docker-compose.yml
+thumbthing/server/yarn.lock
